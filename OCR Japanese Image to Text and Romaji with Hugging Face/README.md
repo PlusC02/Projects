@@ -1,2 +1,2 @@
 # Demonstration
-![](JP translation .png)
+![](asset/JP_translation.png)
