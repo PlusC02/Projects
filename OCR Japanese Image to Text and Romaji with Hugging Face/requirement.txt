@@ -1,0 +1,3 @@
+cutlet==0.4.0
+transformers==4.47.1
+fugashi==1.4.0
