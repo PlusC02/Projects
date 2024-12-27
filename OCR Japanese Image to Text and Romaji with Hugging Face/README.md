@@ -1,2 +1,2 @@
 # Demonstration
-![image info]("./JP translation .png")
+![Japanese Translation](JP\ translation\ .png)
